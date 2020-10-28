@@ -1,0 +1,21 @@
+body{
+  font-family: Chalkboard;
+  margin:0;
+  background-color: #0070FF;
+}
+
+.topnav{
+  background-color: #FFFFFF;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.topnav a{
+  font-size: 20px;
+  text-align: center;
+  color: #0070FF;
+  float:right;
+  padding: 45px 60px;
+  text-decoration: none;
+
+}
